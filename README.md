@@ -85,4 +85,5 @@ Video surveillance and anomaly detection
 7. [Multiple View Geometry in Computer Vision](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) 
 8. [Dive into Deep Learning](https://d2l.ai/d2l-en-pytorch.pdf)
 9. [Learning OpenCV 4 Computer Vision with Python 3](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition)
-10. [Computer Vision Metrics: Survey, Taxonomy, and Analysis](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/28173/1001821.pdf?sequence=1&isAllowed=y) 
+10. [Computer Vision Metrics: Survey, Taxonomy, and Analysis](https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/28173/1001821.pdf?sequence=1&isAllowed=y)
+11. [ByteTrack: Multi-Object Tracking by Associating Every Detection Box](https://github.com/ifzhang/ByteTrack?tab=readme-ov-file)
